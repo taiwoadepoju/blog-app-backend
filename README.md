@@ -1,4 +1,4 @@
-# NodeJS-GraphQL-Auth-Starter
+# Blog App - Backend
 A starter project for user authentication with NodeJs and GraphQL using JWT.
 
 ## Getting Started
@@ -13,7 +13,7 @@ Clone the repo from github and install dependencies through npm.
 
 ```
 git clone https://github.com/taiwoadepoju/NodeJS-GraphQL-Auth-Starter.git
-cd NodeJS-GraphQl-Auth-Starter
+cd blog-app-backend
 npm install
 npm insatall -g nodemon
 npm start
