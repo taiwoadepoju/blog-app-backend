@@ -1,5 +1,5 @@
 # Blog App - Backend
-A starter project for user authentication with NodeJs and GraphQL using JWT.
+A starter blog app with NodeJs and GraphQL.
 
 ## Getting Started
 
